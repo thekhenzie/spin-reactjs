@@ -59,3 +59,5 @@ Attach SCSS files which shouldn't be modularized by Webpack (plugin style overri
 These libraries are used to generate random data state trees to use in Containers for demonstration purposes.
 * [Faker ^3.1.0](https://github.com/marak/Faker.js/) - Generate fake demo data
 * [deep-assign ^2.0.0](https://github.com/sindresorhus/deep-assign) - Recursive `Object.assign()` - helps building complex data trees
+=======
+# spin-reactjs
